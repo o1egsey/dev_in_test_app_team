@@ -9,7 +9,8 @@ def android_get_desired_capabilities():
         'resetKeyboard': True,
         'systemPort': 8301,
         'takesScreenshot': True,
-        'udid': 'ddc9b6e',
+        'udid': 'R28M30YE3ZE',
+        # 'udid': 'ddc9b6e',
         'appPackage': 'com.ajaxsystems',
         'appActivity': 'com.ajaxsystems.ui.activity.LauncherActivity'
 }
