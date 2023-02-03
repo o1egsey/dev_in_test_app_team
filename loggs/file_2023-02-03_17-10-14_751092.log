@@ -1,0 +1,23 @@
+2023-02-03 17:10:43.966 | DEBUG    | test_login:test_login_positive:12 - Logging from test_login_positive
+2023-02-03 17:11:07.252 | DEBUG    | test_login:test_login_positive:22 - End logging
+2023-02-03 17:11:33.836 | DEBUG    | test_login:test_user_login_param:56 - Logging from test_user
+2023-02-03 17:11:41.037 | INFO     | test_login:test_user_login_param:60 - Login is: qa.ajax.app.automation@gmail.com
+2023-02-03 17:11:42.316 | INFO     | test_login:test_user_login_param:62 - Password is: qa_automation_password
+2023-02-03 17:11:55.589 | DEBUG    | test_login:test_user_login_param:56 - Logging from test_user
+2023-02-03 17:12:03.191 | INFO     | test_login:test_user_login_param:60 - Login is: incorrect@email.com
+2023-02-03 17:12:03.811 | INFO     | test_login:test_user_login_param:62 - Password is: incorrect_pass
+2023-02-03 17:12:10.446 | DEBUG    | test_login:test_user_login_param:56 - Logging from test_user
+2023-02-03 17:12:17.442 | INFO     | test_login:test_user_login_param:60 - Login is: qa.ajax.app.automation@gmail.com
+2023-02-03 17:12:18.650 | INFO     | test_login:test_user_login_param:62 - Password is: incorrect_pass
+2023-02-03 17:12:23.962 | DEBUG    | test_login:test_user_login_param:56 - Logging from test_user
+2023-02-03 17:12:30.930 | INFO     | test_login:test_user_login_param:60 - Login is: incorrect@email.com
+2023-02-03 17:12:31.820 | INFO     | test_login:test_user_login_param:62 - Password is: qa_automation_password
+2023-02-03 17:12:37.782 | DEBUG    | test_login:test_user_login_param:56 - Logging from test_user
+2023-02-03 17:12:44.613 | INFO     | test_login:test_user_login_param:60 - Login is: 
+2023-02-03 17:12:45.243 | INFO     | test_login:test_user_login_param:62 - Password is: 
+2023-02-03 17:12:50.640 | DEBUG    | test_login:test_user_login_param:56 - Logging from test_user
+2023-02-03 17:12:58.187 | INFO     | test_login:test_user_login_param:60 - Login is: qa.ajax.app.automation@gmail.com
+2023-02-03 17:12:58.806 | INFO     | test_login:test_user_login_param:62 - Password is: 
+2023-02-03 17:13:05.002 | DEBUG    | test_login:test_user_login_param:56 - Logging from test_user
+2023-02-03 17:13:12.275 | INFO     | test_login:test_user_login_param:60 - Login is: 
+2023-02-03 17:13:12.877 | INFO     | test_login:test_user_login_param:62 - Password is: qa_automation_password
